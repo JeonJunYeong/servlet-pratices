@@ -33,5 +33,6 @@
   
 	<modules>
 		<module>emaillist02</module>
+		<module>guestbook2</module>
 	</modules>
 </project>
