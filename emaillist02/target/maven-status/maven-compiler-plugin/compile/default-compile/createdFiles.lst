@@ -1,0 +1,3 @@
+com\douzone\emaillist\dao\EmaillistDao.class
+com\douzone\emaillist\controller\EmaillistServlet2.class
+com\douzone\emaillist\vo\EmaillistVo.class
