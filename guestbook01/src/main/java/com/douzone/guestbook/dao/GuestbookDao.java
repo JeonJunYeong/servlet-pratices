@@ -110,6 +110,9 @@ public class GuestbookDao {
 				"     	   date_format(reg_date, '%Y-%m-%d %h:%i:%s')" + 
 				"     from guestbook" + 
 				" order by reg_date desc";
+			
+			
+			
 			rs = stmt.executeQuery( sql );
 
 			// 결과 가져오기(사용하기)
